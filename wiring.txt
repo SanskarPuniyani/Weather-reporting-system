@@ -1,0 +1,6 @@
+Wiring and Connection: 
+• DHT Sensor Connection: Connect the sensor's VCC pin to the 3.3V power supply 
+on the NodeMCU, the GND pin to ground, and the data pin to a digital GPIO pin 
+(e.g., D4). 
+• Power Supply: Ensure that the NodeMCU is powered adequately either via a USB 
+connection or an external power source if using it in a portable setup.
